@@ -64,10 +64,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="TestClass.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="TestClass.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edu/test/commm/TestClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="31" selection-start="171" selection-end="171" vertical-scroll-proportion="0.11170213" vertical-offset="0" max-vertical-offset="940">
+            <state line="7" column="31" selection-start="171" selection-end="171" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="T1.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/edu/test/commm/T1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="15" selection-start="83" selection-end="83" vertical-scroll-proportion="0.07978723" vertical-offset="0" max-vertical-offset="940">
               <folding />
             </state>
           </provider>
@@ -359,7 +368,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/edu/test/commm/TestClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="31" selection-start="171" selection-end="171" vertical-scroll-proportion="0.11170213" vertical-offset="0" max-vertical-offset="940">
+        <state line="7" column="31" selection-start="171" selection-end="171" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/test/commm/T1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="15" selection-start="83" selection-end="83" vertical-scroll-proportion="0.07978723" vertical-offset="0" max-vertical-offset="940">
           <folding />
         </state>
       </provider>
