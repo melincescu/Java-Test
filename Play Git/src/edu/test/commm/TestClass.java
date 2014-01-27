@@ -5,39 +5,6 @@ package edu.test.commm;
  */
 public class TestClass {
     public static  void main(String... args) {
-        saddsa
-                das
-                fas
-                        fas
-                        fas
-                                fas1asf
-                                as
-                                        fas
-                                        f
-                                                as
-                                                fas
-                                                        f
-                                                        as
-                                                                fas
-                                                                f
-                                                                        as
-                                                                        fas
-                                                                                f
-
-
-                                                                                c
-                                                                                        cc
-                                                                                        ccc
-                                                                                                cccc
-                                                                                                c
-                                                                                                        c
-                                                                                                        c
-                                                                                                                c
-                                                                                                                c
-                                                                                                                        c
-                                                                                                                        c
-                                                                                                                                c
-                                                                                                                                c
-                                                                                                                                        
+        System.out.println("Bun");
     }
 }
