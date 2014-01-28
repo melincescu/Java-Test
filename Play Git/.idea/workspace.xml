@@ -67,7 +67,7 @@
       <file leaf-file-name="TestClass.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edu/test/commm/TestClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="31" selection-start="171" selection-end="171" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="240">
+            <state line="7" column="31" selection-start="171" selection-end="171" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
               <folding />
             </state>
           </provider>
@@ -76,7 +76,7 @@
       <file leaf-file-name="T1.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/edu/test/commm/T1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="87" selection-end="87" vertical-scroll-proportion="0.17470881" vertical-offset="0" max-vertical-offset="601">
+            <state line="9" column="0" selection-start="91" selection-end="91" vertical-scroll-proportion="0.22462562" vertical-offset="0" max-vertical-offset="601">
               <folding />
             </state>
           </provider>
@@ -434,7 +434,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/test/commm/T1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="87" selection-end="87" vertical-scroll-proportion="0.17470881" vertical-offset="0" max-vertical-offset="601">
+        <state line="9" column="0" selection-start="91" selection-end="91" vertical-scroll-proportion="0.22462562" vertical-offset="0" max-vertical-offset="601">
           <folding />
         </state>
       </provider>
